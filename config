@@ -1,0 +1,5 @@
+IMG_NAME=bt-pi
+TARGET_HOSTNAME=bt-pi
+FIRST_USER_NAME=localadmin
+FIRST_USER_PASS=aic6aicahc5Ahhithei0Pu4d
+ENABLE_SSH=1
